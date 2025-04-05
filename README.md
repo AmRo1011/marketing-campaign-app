@@ -49,7 +49,6 @@ This app generates creative and customized marketing messages tailored to differ
 
 ### 1. Clone the repo or download the files:
 
-```bash
 git clone https://github.com/your-username/marketing-campaign-app.git
 cd marketing-campaign-app
 
