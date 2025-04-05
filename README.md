@@ -39,20 +39,7 @@ This app generates creative and customized marketing messages tailored to differ
 ## 🧱 Project Structure
 
 
-MarketingCampaignApp/ 
-├── app/
-│ └── main.py # Streamlit app UI 
-├── backend/ 
-│ └── generator.py # LangChain logic using ChatGroq 
-├── utils/ 
-│ └── prompts.py # Prompt templates per age group 
-├── examples/ 
-│ ├── kids.json 
-│ ├── adults.json 
-│ └── seniors.json 
-├── .env # Contains your GROQ_API_KEY 
-├── requirements.txt # Python dependencies 
-└── README.md # Project documentation
+![image](https://github.com/user-attachments/assets/1e4db31c-89fa-4358-a2f1-e32541200010)
 
 
 
