@@ -49,7 +49,7 @@ This app generates creative and customized marketing messages tailored to differ
 
 ### 1. Clone the repo or download the files:
 
-git clone https://github.com/your-username/marketing-campaign-app.git
+git clone https://github.com/AmRo1011/marketing-campaign-app.git
 cd marketing-campaign-app
 
 2. Create a virtual environment (optional but recommended):
